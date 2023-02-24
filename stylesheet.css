@@ -170,6 +170,7 @@
   }
 
   .card__pricing {
+    font-weight: var(--fw-semibold);
     color: var(--clr-primary-cyan);
     
     display: flex;
